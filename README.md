@@ -24,8 +24,6 @@ The main goal of this project is to:
 
 ```bash
 uhi-analysis/
-├── data/                 # Raw and processed raster/vector data
 ├── notebooks/            # Jupyter Notebooks for UTFVI analysis
 ├── results/              # Output figures, tables, and maps
 ├── README.md             # Project documentation
-└── requirements.txt      # Dependencies
