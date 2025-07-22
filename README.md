@@ -1,6 +1,6 @@
 # 🌡️ UTFVI-Based Urban Heat Analysis of Bursa City
 
-This project investigates **Urban Thermal Field Variance Index (UTFVI)** as a method to assess thermal stress and urban heat island phenomena in Bursa, Turkey. UTFVI is a quantitative index that measures surface heat variation relative to the average land surface temperature (LST), offering insight into ecological pressure and human thermal discomfort in urban environments.
+This project investigates **Urban Thermal Field Variance Index (UTFVI)** as a method to assess thermal stress and urban heat island phenomena in Bursa, Türkiye. UTFVI is a quantitative index that measures surface heat variation relative to the average land surface temperature (LST), offering insight into ecological pressure and human thermal discomfort in urban environments.
 
 ## 🔍 Objective
 
