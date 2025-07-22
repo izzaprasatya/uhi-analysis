@@ -25,5 +25,6 @@ The main goal of this project is to:
 ```bash
 uhi-analysis/
 ├── notebooks/            # Jupyter Notebooks for UTFVI analysis
+├── reference/            # Selected literature for analysis
 ├── results/              # Output figures, tables, and maps
 ├── README.md             # Project documentation
