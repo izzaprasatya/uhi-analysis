@@ -22,6 +22,5 @@ The main goal of this project is to:
 uhi-analysis/
 ├── notebooks/            # Jupyter Notebooks for UTFVI analysis
 ├── references/           # Selected literature for analysis
-├── results/              # Output figures, tables, and maps
-├── LICENSE/          
+├── results/              # Output figures, tables, and maps         
 ├── README.md             # Project documentation
