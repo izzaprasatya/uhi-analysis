@@ -5,9 +5,9 @@ This project investigates **Urban Thermal Field Variance Index (UTFVI)** as a me
 ## 🔍 Objective
 
 The main goal of this project is to:
-- Extract the seasonal variations in average Land Surface Temperature (LST) across the districts of Bursa City
+- Extract the seasonal variations in average Land Surface Temperature (LST) value across per districts of Bursa City
 - Identify UTFVI hotspots across different districts of Bursa City
-- Examine the seasonal variations in ecological conditions within those districts
+- Examine the seasonal variations in UHI phenomenon and ecological conditions within those districts
 
 ## 🛠️ Tools & Technologies
 
